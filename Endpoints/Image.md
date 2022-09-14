@@ -1,24 +1,10 @@
----
-coverY: 0
-layout: editorial
----
-
 # Image
+Hola
 
-/Hola
-
-## ..
-
-.\
-
+<br/>
 
 ## Base URL
+ `https://apy.moon-light.ga/image/`
 
-{% embed url="https://apy.moon-light.ga/imagemage" %}
-Ok\
 
-{% endembed %}
-
-##
-
-/​
+https://apy.willz.repl.co/image/santa?text=
